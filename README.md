@@ -2,8 +2,8 @@
 
 ## ONNX модели
 
-Модель детекции - PP-OCRv5_det - не зависит от конкретного языка, используется последняя версия. Ссылка для скачивания модели: https://huggingface.co/monkt/paddleocr-onnx/tree/main/detection/v5
-Модель распознавания символов (латиница + кириллица) - eslav-PP-OCRv5_rec. Ссылка для скачивания модели и dict.txt: https://huggingface.co/monkt/paddleocr-onnx/tree/main/languages/eslav
+- Модель детекции - PP-OCRv5_det - не зависит от конкретного языка, используется последняя версия. Ссылка для скачивания модели: https://huggingface.co/monkt/paddleocr-onnx/tree/main/detection/v5
+- Модель распознавания символов (латиница + кириллица) - eslav-PP-OCRv5_rec. Ссылка для скачивания модели и dict.txt: https://huggingface.co/monkt/paddleocr-onnx/tree/main/languages/eslav
 
 ## OCR алгоритм
 
